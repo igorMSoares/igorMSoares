@@ -41,17 +41,6 @@ Solving problems motivates me 🤓 and I really appreciate the creative process 
 
 <a href="http://www.github.com/igorMSoares"><img src="https://github-readme-stats.vercel.app/api?username=igorMSoares&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="igorMSoares's GitHub stats" /></a>
 
-### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/igorMSoares/etch-a-sketch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=igorMSoares&repo=etch-a-sketch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/igorMSoares/resize-images" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=igorMSoares&repo=resize-images&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
-
-
 <!--
 <a href="https://github.com/igorMSoares" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorMSoares&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/igorMSoares/matching-game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=igorMSoares&repo=matching-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/igorMSoares/js-css-animations" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=igorMSoares&repo=js-css-animations&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 -->
