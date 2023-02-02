@@ -6,7 +6,7 @@
 
 <em>**System Analysis and Development**</em> student at FATEC - Baixada Santista.
 
-Solving problems motivates me 🤓 and I really appreciate the creative process involved in development in general.<br />I'm a VueJs enthusiast and always studying about the Javascript ecosystem.
+Solving problems motivates me 🤓 and I really enjoy the creative process involved in development in general.<br />I'm a VueJs enthusiast and always studying about the Javascript ecosystem.
 
 * 🌍  Based in Santos - SP 🇧🇷
 * 🧠  Learning Sass and Tailwind
