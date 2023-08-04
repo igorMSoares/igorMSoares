@@ -9,7 +9,7 @@
 Solving problems motivates me 🤓 and I really enjoy the creative process involved in development in general.<br />I'm a VueJs enthusiast and always studying about the Javascript ecosystem.
 
 * 🌍  Based in Santos - SP 🇧🇷
-* 🧠  Learning Sass and Tailwind
+* 🧠  Learning Laravel
 * 🤝  Open to collaborating on Vue Projects
 * ⚡  Besides coding, I love juggling :juggling_person: and drawing :art:
 
@@ -26,7 +26,7 @@ Solving problems motivates me 🤓 and I really enjoy the creative process invol
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="Javascript" /></a>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>&nbsp;
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue" /></a>
-<a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"><img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" title="Pinia" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" width="36" height="36" alt="Laravel" title="Laravel" /></a>
 </p>
 
 ### Languages I speak
