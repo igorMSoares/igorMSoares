@@ -8,11 +8,10 @@
 
 <em>**Systems Analysis and Development**</em> student at FATEC - Baixada Santista.
 
-Solving problems motivates me 🤓 and I really enjoy the creative process involved in development in general.<br />I'm a VueJs enthusiast and always studying about the Web Dev ecosystem.
+Solving problems motivates me 🤓 and I really enjoy the creative process involved in development in general.
 
 * 🌍  Based in Santos - SP 🇧🇷
 * 🧠  Learning Golang
-* 🤝  Open to collaborating on Vue Projects
 * ⚡  Besides coding, I love juggling :juggling_person: and drawing :art:
 
 ---
@@ -32,6 +31,7 @@ Solving problems motivates me 🤓 and I really enjoy the creative process invol
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" width="36" height="36" alt="Laravel" title="Laravel" /></a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" height="36" alt="MongoDB" title="MongoDB" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/images/go-logo-blue.svg" height="36" width="64" alt="Golang" title="Go" /></a>
 </p>
 
 ### Languages I speak
