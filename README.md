@@ -1,17 +1,23 @@
- Hello! I'm Igor Soares <img alt="waving hand" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
-===================================================================================================================================
+ Hey there! I'm Igor Soares <img alt="waving hand" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
+====
 
-\> Web Developer - Learning something new every day
----------------------------------------------------
+\> Learning something new every day
+---
 
-<em>**Backend Developer**</em> at [Creath Tech](https://www.creath.com.br/)
+<em>**AI Systems Engineer**</em> at [Dai Tec](https://dai.tec.br/)
 
 <em>**Systems Analysis and Development**</em> student at FATEC - Baixada Santista.
 
 Solving problems motivates me 🤓 and I really enjoy the creative process involved in development in general.
 
+I'm curious by nature and always looking to learn something new — whether it's experimenting with a new framework, building side projects, or exploring how things work under the hood.
+
+I also love open source and enjoy contributing when I can.
+Creating and collaborating is what keeps me excited about tech!
+
+Let's build something cool together!
+
 * 🌍  Based in Santos - SP 🇧🇷
-* 🧠  Learning Golang
 * ⚡  Besides coding, I love juggling :juggling_person: and drawing :art:
 
 ---
@@ -31,7 +37,10 @@ Solving problems motivates me 🤓 and I really enjoy the creative process invol
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" width="36" height="36" alt="Laravel" title="Laravel" /></a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" height="36" alt="MongoDB" title="MongoDB" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" height="32" width="32" alt="RabbitMQ" title="RabbitMQ" /></a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://go.dev/images/go-logo-blue.svg" height="36" width="64" alt="Golang" title="Go" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.gravatar.com/avatar/7510e100f7ebeca4a0b8c3c617349295?s=40&r=g&d=404" height="36" width="36" alt="Docker" title="Docker" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="36" width="36" alt="PostgreSQL" title="PostgreSQL" /></a>
 </p>
 
 ### Languages I speak
