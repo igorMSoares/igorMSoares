@@ -6,7 +6,7 @@
 
 <em>**AI Systems Engineer**</em> at [Dai Tec](https://dai.tec.br/)
 
-<em>**Systems Analysis and Development**</em> student at FATEC - Baixada Santista.
+<em>**Graduate in Systems Analysis and Development**</em> — FATEC Baixada Santista.
 
 Solving problems motivates me 🤓 and I really enjoy the creative process involved in development in general.
 
